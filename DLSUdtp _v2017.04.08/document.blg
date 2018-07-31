@@ -1,17 +1,25 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
-A level-1 auxiliary file: introduction.aux
-A level-1 auxiliary file: literature_review.aux
-A level-1 auxiliary file: theoretical_considerations.aux
-A level-1 auxiliary file: design_considerations.aux
-A level-1 auxiliary file: methodology.aux
-A level-1 auxiliary file: results_and_discussions.aux
-A level-1 auxiliary file: conclusions.aux
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: document.aux
+A level-1 auxilliary file: introduction.aux
+A level-1 auxilliary file: literature_review.aux
+A level-1 auxilliary file: theoretical_considerations.aux
+A level-1 auxilliary file: design_considerations.aux
+A level-1 auxilliary file: methodology.aux
+A level-1 auxilliary file: results_and_discussions.aux
+A level-1 auxilliary file: conclusions.aux
 The style file: apalike.bst
-A level-1 auxiliary file: answers_to_questions.aux
-A level-1 auxiliary file: revisions_to_the_proposal.aux
-A level-1 auxiliary file: revisions_to_the_final.aux
-A level-1 auxiliary file: usage_examples.aux
-A level-1 auxiliary file: vita.aux
+A level-1 auxilliary file: answers_to_questions.aux
+A level-1 auxilliary file: revisions_to_the_proposal.aux
+A level-1 auxilliary file: revisions_to_the_final.aux
+A level-1 auxilliary file: usage_examples.aux
+A level-1 auxilliary file: vita.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=1001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Database file #1: references.bib
 Warning--entry type for "almendro" isn't style-file defined
 --line 130 of file references.bib
@@ -93,4 +101,12 @@ Warning--empty publisher in westfahl:space
 Warning--empty institution in winget-67
 Warning--can't use both author and editor fields in wright-63
 Warning--empty publisher in wright-63
+
+Here's how much of BibTeX's memory you used:
+ Cites:               149 out of 750
+ Fields:             2519 out of 5000
+ Hash table:         4547 out of 5000
+ Strings:            1240 out of 4000
+ Free string pool:  20385 out of 65000
+ Wizard functions:   1935 out of 3000
 (There were 2 error messages)
