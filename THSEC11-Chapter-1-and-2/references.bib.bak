@@ -1,0 +1,26 @@
+% This file was created with JabRef 2.6.
+% Encoding: Cp1252
+
+@BOOK{barsukov2013battery,
+  title = {Battery power management for portable devices},
+  publisher = {Artech house},
+  year = {2013},
+  author = {Barsukov, Yevgen and Qian, Jinrong}
+}
+
+@BOOK{corves2016new,
+  title = {New Advances in Mechanisms, Mechanical Transmissions and Robotics},
+  publisher = {Springer},
+  year = {2016},
+  author = {Corves, Burkhard J and Lovasz, Erwin-Christian and H{\"u}sing, Mathias
+	and Maniu, Inocentiu and Gruescu, Corina}
+}
+
+@BOOK{marques2017advanced,
+  title = {Advanced UAV Aerodynamics, Flight Stability and Control: Novel Concepts,
+	Theory and Applications},
+  publisher = {John Wiley \& Sons},
+  year = {2017},
+  author = {Marqu{\'e}s, Pascual and Da Ronch, Andrea}
+}
+
